@@ -1,0 +1,90 @@
+h1 {
+  color: white;
+  font-style: italic;
+  background-color: #ff6699;
+  border-bottom: 20px #ff0066 solid;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+body {
+  background-color: purple;
+  width: 20%;
+}
+
+p {
+  font-family: "Century Gothic", sans-serif;
+  background-color: #ccff99;
+  border: 10px white;
+  padding: 0px;
+  margin: 0px;
+}
+
+/* p {
+  color: fuchsia;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: em;
+  border: 10px white solid;
+}
+
+*/
+
+ul {
+  background-color: teal;
+  border-left: 10px black dashed;
+  margin: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*
+ul {
+  background-color: silver;
+  padding: 20px;
+}
+*/
+
+/* p { 
+  color: blue;
+}
+
+h2 {
+  color: rgb(33, 19, 161);
+  text-align: center;
+}
+
+body{
+  background-color: rgb(232, 235, 211);
+  font-family; Cambria;
+  padding: 1;
+  margin: 2;
+}
+*/
+
+/* 
+body {
+    background-color: #83AF9B;
+    text-align: center;
+    font-family: Arial;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    background-color: #FE4365;
+    color: #F9CDAD;
+    font-size: 8em;
+    padding: 50px;
+}
+h2 {
+    color: #FE4365;
+    background-color: #F9CDAD;
+}
+img {
+    height: 250px;
+}
+p {
+    background-color: #FC9D9A;
+    color: white;
+    padding: 50px;
+    font-size: 2em;
+} */
